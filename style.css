@@ -1,0 +1,26 @@
+
+.container{
+    justify-content: center;
+}
+
+#btnApagar{
+    margin-top: 33px;
+}
+
+#btnEnviar{
+    margin-top: 33px;
+}
+
+#funcoes{
+    margin-top: 20px;
+}
+
+.nav-item{
+    margin-right: 8px;
+}
+
+h2{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
